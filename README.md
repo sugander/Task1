@@ -1,4 +1,4 @@
-Project Title: Dual-Axis Chart Analysis for Free vs. Paid Apps in Top App Categories
+Project Title: Dual-Axis Chart Analysis for Free vs. Paid Apps in Top App Categories on Google Play Store
 
 Project Overview: This project focuses on creating a dual-axis chart to compare the average installs and revenue for free vs. paid apps within the top 3 app categories. The analysis includes several important filters to refine the dataset and ensure only relevant apps are considered:
 
